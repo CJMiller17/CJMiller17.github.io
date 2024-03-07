@@ -23,5 +23,3 @@ I am eager to learn about Python.
 Here are somethings that you wouldn't know about me except by reading the blog:
 
 (insert table)
-
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
