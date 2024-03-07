@@ -1,6 +1,6 @@
 # Cody's Blog #
 
-![Picture of myself and my son wearing a similar blue outfit.](images/Photo_of_Barrett_and_Me.png)
+![Picture of myself and my son wearing a similar blue outfit.](Photo of Barrett and Me.png)
 
 ## Was your first week what you expected? Why? Why not? ##
 
