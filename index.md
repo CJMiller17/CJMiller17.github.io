@@ -1,12 +1,15 @@
 # Cody's Super Awesome Blog #
 
+> [!WARNING]
+> The photo that you are about to see is ***super*** cute.
+
 ![Picture of myself and my son wearing a similar blue outfit.](Barrett_1.png)
 
 ## Was your first week what you expected? Why? Why not? ##
 
 > "High achievement *always* takes place in the framework of high expectation." -Charles Kettering
 
-That is a **great** question. A lot of people say that having expections leads to disappointment. I disagree. I think having expectations sets you up for success. There were things I was expecintg and things I wasnt. This cohort is no different.  
+That is a **great** question. A lot of people say that having expections leads to disappointment. I disagree. I think having expectations sets you up for success. There were things I was expecintg and things I wasn't. This cohort is no different.  
 
 #### What I was expecting ####
 
@@ -20,14 +23,14 @@ I also didnt expect the Awesome Inc. building to be so large and maze like. I've
 
 ## What are you excited or eager to learn more about? ##
 
-I am excited and eager to learn everything; From HTML to Python. I am excited to see if I enjoy backend versus frontend, or if I will like them equally. I suspect I will like backend more, but only time will tell. I am most eager to learn Python, because of my iterest in AI.
+I am excited and eager to learn everything; From HTML to Python. I am excited to see if I enjoy backend versus frontend, or if I will like them equally. I suspect I will like backend more, but only time will tell. I am most eager to learn Python, because of my interest in AI.
 
 ## What is something about you that can only be learned by reading this blog? ##
 
 Here are somethings that you wouldn't know about me except by reading the blog:
 
-Married | 8 years|
+|Favorite | Explanation|
 |---|---|
-|Fav. Animal| Fox|
-Fav. Color | Orange... Because I love Foxes
-Fav. Metal | Copper... because it reminds me of Foxes
+|Animal| Fox|
+|Color | Orange... Because I love Foxes|
+|Metal | Copper... because it reminds me of Foxes|
