@@ -32,5 +32,5 @@ Here are somethings that you wouldn't know about me except by reading the blog:
 |Favorite | Explanation|
 |---|---|
 |Animal| Fox|
-|Color | Orange... Because I love Foxes|
+|Color | Orange... because I love Foxes|
 |Metal | Copper... because it reminds me of Foxes|
