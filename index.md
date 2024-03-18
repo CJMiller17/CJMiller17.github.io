@@ -3,7 +3,7 @@
 > [!WARNING]
 > The photo that you are about to see is ***super*** cute.
 
-![Picture of myself and my son wearing a similar blue outfit.](Barrett_1.png)
+![Picture of myself and my son wearing a similar blue outfit.](Assets/Barrett_1.png)
 
 ## Was your first week what you expected? Why? Why not? ##
 
