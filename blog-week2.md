@@ -1,5 +1,7 @@
 # March 17<sup>th</sup> #
 
+>"Perfect is the enemy of good." -Voltaire
+
 ## What is something you wish you could do but currently do not have the coding skills to accomplish? ##
 
 To extend the amount of time in a day. If someone knows how to code for that, I would be eternally grateful. I would have all the time in the world to thank you! All joking aside, I wish I was more proficient in CSS. There seems to be an unlimited number of possibilities of what a page *could* look like, that I don't even know *what* I want my page to look like. I like to know what my options are before I make a decision, which just isn't possible with so many options.  
