@@ -1,5 +1,7 @@
 # Week 3 #
 
+![HTML CSS and JS described as human body](Assets/Blog3.jpg)
+
 ## What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing a user experience? ##
 
 I think about HTML, CSS, and Javascipt's roles like the those of different parts of the human body. HTML is like the skeleton, it holds everything up and gives it structure. There are a lot of different bones (tags), but overall, it isn't overly complicated and is straight forward. 
