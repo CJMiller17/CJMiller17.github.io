@@ -1,0 +1,54 @@
+/* html {
+    
+} */
+
+body {
+    background-image: url("../IMG/bg-copper.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;   
+}
+
+main {
+    margin-top: 10rem;
+    backdrop-filter: blur(10px);
+    border-radius: 30px;
+    height: 
+}
+
+h1 {
+    margin: 15px auto;
+    padding-left: 23px;
+    z-index: 2;
+}
+
+img {
+    margin: auto;
+    height: auto;
+    max-height: 250px;
+    max-width: 250px;
+    width: 100%;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0px;
+    list-style-type: none;
+    margin: auto;
+    align-items: center;
+    
+}
+
+li {
+    line-height: 30px;
+    padding-left: 23px;
+     z-index: 2;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
