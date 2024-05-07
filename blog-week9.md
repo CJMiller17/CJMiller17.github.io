@@ -6,6 +6,8 @@ description: 'Ninth Blog Entry for Awesome Inc. Bootcamp'
 
 # May 5<sup>th</sup> #
 
+>“We become what we behold. We shape our tools, and thereafter our tools shape us.”
+>― Marshall McLuhan
 
 ## What have you learned about CLIs? Do you think they are scary? ##
 

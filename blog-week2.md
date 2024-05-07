@@ -18,7 +18,7 @@ I think I am struggling with time management and/or just having enough time in g
 
 ## How do you solve a problem? ##
 
-I typically try to asses what the problem is. How wide is it? How tall is it? Who has experienced this before? Once I get some context of what the problem seems to be, I approximate a potential solution and work backwards. If this is what the solution *should* be, how can I works backwards from it to where I am now? I then try to break up those steps into bite size pieces and then move forwards, adjusting when necessary. 
+I typically try to assess what the problem is. How wide is it? How tall is it? Who has experienced this before? Once I get some context of what the problem seems to be, I approximate a potential solution and work backwards. If this is what the solution *should* be, how can I works backwards from it to where I am now? I then try to break up those steps into bite size pieces and then move forwards, adjusting when necessary. 
 
 ## What methods do you use to help yourself get unstuck? ##
 
