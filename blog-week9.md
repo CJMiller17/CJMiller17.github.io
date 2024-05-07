@@ -14,4 +14,4 @@ If I were to build a CLI, I think I would make a mystery game or something like 
 
 ## List some ideas that without a Framework, would take you a long time to code ##
 
-Frameworks make life easier and often times make coding more efficient. 
+Frameworks make life easier and often times make coding more efficient. Without a framework or a library, I would be left to reinvent the wheel. It is important to at least learn how the wheel is built, but if I have to rebuild one for every single project, a lot of time would be wasted. Frameworks and libraries increase efficiency and consistency across teams and across projects. 
