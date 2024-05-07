@@ -1,3 +1,9 @@
+---
+title: My Sixth Blog Post
+date: '2024-04-12T12:00:00.00Z'
+description: 'Sixth Blog Entry for Awesome Inc. Bootcamp'
+---
+
 # Week 6 #
 
 ## What did you learn that helped you understand the development process? ##

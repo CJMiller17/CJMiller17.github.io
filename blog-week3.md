@@ -1,3 +1,9 @@
+---
+title: My Third Blog Post
+date: '2024-03-21T12:00:00.00Z'
+description: 'Third Blog Entry for Awesome Inc. Bootcamp'
+---
+
 # Week 3 #
 
 ![HTML CSS and JS described as human body](Assets/Blog3.jpg)

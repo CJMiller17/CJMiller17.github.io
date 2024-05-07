@@ -1,3 +1,9 @@
+---
+title: My Fourth Blog Post
+date: '2024-03-29T12:00:00.00Z'
+description: 'Fourth Blog Entry for Awesome Inc. Bootcamp'
+---
+
 # Week 4 #
 
 >“The one who falls and gets up is stronger than the one who never tried. Do not fear failure but rather fear not trying.” ― Roy T. Bennett

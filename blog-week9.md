@@ -1,5 +1,10 @@
-# May 5<sup>th</sup> #
+---
+title: My Ninth Blog Post
+date: '2024-05-03T12:00:00.00Z'
+description: 'Ninth Blog Entry for Awesome Inc. Bootcamp'
+---
 
+# May 5<sup>th</sup> #
 
 
 ## What have you learned about CLIs? Do you think they are scary? ##

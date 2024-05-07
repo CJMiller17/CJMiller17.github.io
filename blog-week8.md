@@ -1,3 +1,9 @@
+---
+title: My Eighth Blog Post
+date: '2024-04-27T12:00:00.00Z'
+description: 'Eighth Blog Entry for Awesome Inc. Bootcamp'
+---
+
 # April 27<sup>th</sup> #
 
 >“Give us the tools, and we will finish the job.” - Winston Churchill

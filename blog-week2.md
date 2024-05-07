@@ -1,3 +1,9 @@
+---
+title: My Second Blog Post
+date: '2024-03-14T12:00:00.00Z'
+description: 'Second Blog Entry for Awesome Inc. Bootcamp'
+---
+
 # March 17<sup>th</sup> #
 
 >"Perfect is the enemy of good." -Voltaire

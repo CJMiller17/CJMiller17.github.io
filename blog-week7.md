@@ -1,3 +1,9 @@
+---
+title: My Seventh Blog Post
+date: '2024-04-20T12:00:00.00Z'
+description: 'Seventh Blog Entry for Awesome Inc. Bootcamp'
+---
+
 # April 20<sup>th</sup> #
 >"A language that doesn't affect the way you think about programming is not worth knowing." -Alan Perlis
 

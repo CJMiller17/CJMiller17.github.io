@@ -1,3 +1,9 @@
+---
+title: My Fifth Blog Post
+date: '2024-04-05T12:00:00.00Z'
+description: 'Fifth Blog Entry for Awesome Inc. Bootcamp'
+---
+
 # Week 5 #
 
 >"Find your ***why*** and you'll find your ***way***. -John Maxwell"
